@@ -1,0 +1,11 @@
+.vscode/
+release/
+build/
+*.rpx
+*.elf
+.DS_Store
+*.o
+*.d
+*.map
+*.lst
+romfs/images/
